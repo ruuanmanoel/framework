@@ -8,7 +8,7 @@ function App() {
 
     <div className="w-full h-full">
         <Header />
-        <Layout />
+        {/* <Layout /> */}
         <BarcodeScanner />
         {/* <App2 /> */}
     </div>
